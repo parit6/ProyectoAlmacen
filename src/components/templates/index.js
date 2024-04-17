@@ -1,0 +1,15 @@
+export { BitacoraTemplate } from './BitacoraTemplate';
+export { CentrosTemplate } from './CentrosTemplate';
+export { CentrosydepartamentosTemplate } from './CentrosydepartamentosTemplate';
+export { ConfiguracionTemplate } from './ConfiguracionTemplate';
+export { DepartamentosTemplate } from './DepartamentosTemplate';
+export { EquiposTemplate } from './EquiposTemplate';
+export { HomeTemplate } from './HomeTemplate';
+export { LoginTemplate } from './LoginTemplate';
+export { MarcasTemplate } from './MarcasTemplate';
+export { MenuInventarioTemplate } from './MenuInventarioTemplate';
+export { MenuMarcasTemplate } from './MenuMarcasTemplate';
+export { ModelosTemplate } from './ModelosTemplate';
+export { MonitoresTemplate } from './MonitoresTemplate';
+export { PlantillaBase } from './PlantillaBase';
+export { UsuariosTemplate } from './UsuariosTemplate';
